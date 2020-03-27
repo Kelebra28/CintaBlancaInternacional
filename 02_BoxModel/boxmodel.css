@@ -1,0 +1,28 @@
+
+h1 {
+    border: solid 1px black;
+    width: 500px;
+    height: 100px;
+    /* margin-top: ;
+    margin-left: ;
+    margin-right: ;
+    margin-bottom: ; */
+            /* top/bot  lados     */
+    /* margin: 50px 100px; */
+        /* top   rigth  bottom left    */
+    margin: 20px 50px 150px 20px;
+    padding: 20px 200px 50px 200px;
+ 
+}
+
+/* Hola amigos */
+p {
+    border: solid 1px blue;
+   
+}
+
+a{
+    border: solid 1px purple;
+    width: 1000px;
+    margin-left: 100px;
+}
