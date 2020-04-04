@@ -1,0 +1,31 @@
+
+[
+    {
+        "nombre": "Ricardo",
+        "edad": 21,
+        "tel": "541231869465",
+        "direccion": "CDMX",
+        "familia": true,
+        "musica": ["Salsa", "Cumbia", "Reggeteon", "Metal"],
+        "peliculas" : {
+            "terror" : false,
+            "romanticas" : ["Titanic" , "Romeo y Julieta",["Prueba1", {
+                "dato1" : "Soy un crack"
+            }]] 
+        }  
+    },
+    {
+        "nombre": "Luis",
+        "edad": 21,
+        "tel": "541231869465",
+        "direccion": "CDMX",
+        "familia": true,
+        "musica": ["Salsa", "Cumbia", "Reggeteon", "Metal"],
+        "peliculas" : {
+            "terror" : false,
+            "romanticas" : ["Titanic" , "Romeo y Julieta",["Prueba1", {
+                "dato1" : "Soy un crack"
+            }]] 
+        }  
+    }
+]
