@@ -1,0 +1,26 @@
+.custom-color {
+    background-color: purple;
+    border: solid 1px purple;
+}
+
+.custom-color:hover {
+    background: #550055;
+    border: solid 1px purple;
+}
+
+/* main {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+} */
+
+/* 
+
+nuestro css se ocupa para modificar: 
+-colores 
+-width 
+-heigh 
+-font-size 
+-font-family
+
+*/
