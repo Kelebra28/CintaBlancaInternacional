@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+.cumtomSection{
+    /* border: 1px solid blue; */
+    height: 40vh;
+}
+
+#button{
+    width: 150px;
+}
+
+.customCard{
+    display: none;
+}
