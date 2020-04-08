@@ -13,4 +13,4 @@ const cambiar = () => {
     respuesta.innerHTML = input.value
 };
 
-button.addEventListener('click', cambiar);
+button.addEventListener('click', cambiar); 

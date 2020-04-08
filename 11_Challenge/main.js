@@ -18,7 +18,7 @@ let card = document.getElementById('card')
  
 
 console.log(card.classList);
-
+ 
 const order = () =>{
     nameText.innerHTML = name.value
     adressText.innerHTML = adress.value
