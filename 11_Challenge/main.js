@@ -15,6 +15,11 @@ let button = document.getElementById('button')
 
 //Card
 let card = document.getElementById('card')
+
+//Image
+let peperoni = document.getElementById('peperoni')
+let hawaiana = document.getElementById('hawaiana')
+
  
 
 console.log(card.classList);
@@ -29,9 +34,15 @@ const order = () =>{
     let answerPizza = pizza.value.toLowerCase()
     
     if(answerPizza === 'sin'){
-        pizzaText.innerHTML = ':D'
+
+        peperoni.classList.remove('none')
+        hawaiana.classList.add('none')
+
     }else if(answerPizza === 'con'){
-        pizzaText.innerHTML = 'D:'
+        
+        hawaiana.classList.remove('none')
+        peperoni.classList.add('none')
+
     }else{
         pizzaText.innerHTML = 'Datos incorrectos'
     }

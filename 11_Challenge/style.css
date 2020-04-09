@@ -14,3 +14,9 @@ h1{
 .customCard{
     display: none;
 } 
+.none{
+    display: none;
+}
+.pizzaImg{
+    width: 100px;
+}
